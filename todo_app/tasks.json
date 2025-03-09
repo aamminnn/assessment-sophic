@@ -1,0 +1,12 @@
+[
+    {
+        "description": "sidai baju",
+        "expected_hours": "5",
+        "completed": false
+    },
+    {
+        "description": "mandi",
+        "expected_hours": "1",
+        "completed": false
+    }
+]
